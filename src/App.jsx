@@ -14,10 +14,15 @@ export default function App() {
       <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[350px] bg-cyan-500/10 blur-[140px] pointer-events-none rounded-full" />
 
       <Navbar /> 
+      
       <Hero />
+
       <Curriculum />
+
       <Pricing />
+
       <Testimonials />
+
       <Footer /> 
     </div> 
   );
