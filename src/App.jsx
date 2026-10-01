@@ -18,7 +18,7 @@ export default function App() {
       <Curriculum />
       <Pricing />
       <Testimonials />
-      <Footer />
+      <Footer /> 
     </div> 
   );
 }

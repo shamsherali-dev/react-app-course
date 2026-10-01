@@ -12,7 +12,7 @@ export default function Navbar() {
             <Shield className="w-6 h-6" />
           </div>
           <span className="text-xl font-extrabold tracking-wider bg-gradient-to-r from-cyan-400 to-emerald-400 bg-clip-text text-transparent">
-            CYBER.//OPS
+            CYBER./OPS
           </span>
         </div>
 
