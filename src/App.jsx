@@ -19,6 +19,6 @@ export default function App() {
       <Pricing />
       <Testimonials />
       <Footer />
-    </div>
+    </div> 
   );
 }
